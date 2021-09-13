@@ -1,7 +1,7 @@
 GIT
   remote: git@github.com:epayco/epayco-ruby.git
-  revision: 8dce843bd275ca0f5c53a0209f4d29b1f3c7c9bb
-  branch: feature/get-banks
+  revision: dc39da48db252b2c4ac3aa824c901cac507dd749
+  branch: bugfix/delete-plan
   specs:
     epayco-sdk-ruby (0.0.9)
       json (~> 2.1)

@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  delete 'epayco/plans/:id', to: 'epayco/plans#destroy'
+
   namespace :epayco do
     get 'pse/getBanks'
   end
